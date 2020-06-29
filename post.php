@@ -58,7 +58,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
     }		 
 }
 
-//Borrar assesment 
+//Borrar assesment   
 if ($_SERVER['REQUEST_METHOD'] == 'DELETE')
 {
   $id = $_GET['id'];

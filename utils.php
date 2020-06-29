@@ -1,5 +1,5 @@
 <?php
- 
+   
   //Abrir conexion a la base de datos
   function connect($db)
   {
