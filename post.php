@@ -58,7 +58,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
     }		 
 }
 
-//Borrar assesment --------- hoy 29-06-2020
+//Borrar assesment 
 if ($_SERVER['REQUEST_METHOD'] == 'DELETE')
 {
   $id = $_GET['id'];

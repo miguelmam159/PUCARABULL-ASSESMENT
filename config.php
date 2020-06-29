@@ -1,6 +1,6 @@
 <?php
 
-$db = [
+$db = [ 
     'host' => 'localhost',
     'username' => 'root',
     'password' => '',
